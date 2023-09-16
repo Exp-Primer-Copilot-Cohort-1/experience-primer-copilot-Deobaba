@@ -8,7 +8,8 @@ function skillMembers() {
     member = {};
     member.name = "Mary";
     member.age = 25;
-    member.skills = ["C++", "Java", "Python"];
+    member.skills = ["C+", "Java", "Python"];
     members.push(member);
     return members;
 }
+
